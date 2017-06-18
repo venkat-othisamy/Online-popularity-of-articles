@@ -2,7 +2,7 @@
 This project solely focusses on using Linear Regression techniques to find out the factors affecting online popularity of articles.
 
 ### Model:
-Employed Log-Log model, which gave quantified the relationship between target and independent variables in percentage.
+Employed Log-Log model, which gave quantified the relationship between target and independent variables in percentage.<br>
 <strong>Target variable: </strong>Online shares of news articles in social media
 
 ### Assumptions checked:

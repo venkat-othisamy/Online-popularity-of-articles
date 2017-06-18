@@ -3,7 +3,7 @@ This project solely focusses on using Linear Regression techniques to find out t
 
 ### Model:
 Employed Log-Log model, which gave quantified the relationship between target and independent variables in percentage.
-<br><strong>Target variable: </strong>Online shares of news articles in social media
+<p><strong>Target variable: </strong>Online shares of news articles in social media</p>
 
 ### Assumptions checked:
 <li>Normal distribution of errors</li>

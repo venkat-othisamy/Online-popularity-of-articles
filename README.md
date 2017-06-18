@@ -1,2 +1,10 @@
 # Online popularity of articles(Stats project)
-This project solely focusses on using Linear Regression techniques to find out the online popularity of articles.
+This project solely focusses on using Linear Regression techniques to find out the factors affecting online popularity of articles.
+
+Assumptions checked
+<li>Normal distribution of errors</li>
+<li>No collinearity</li>
+<li>Homoscedasticity</li>
+<li>Linear relationship</li>
+<li>No auto-correlation</li>
+
